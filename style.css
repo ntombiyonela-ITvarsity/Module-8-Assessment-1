@@ -1,0 +1,38 @@
+body {
+    background-image: url("images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+
+form {
+    display: inline-block;
+    text-align: left;
+}
+
+input {
+    font-size: 16px;
+    padding: 6px;
+}
+
+button {
+    font-size: 16px;
+    padding: 8px 14px;
+    cursor: pointer;
+}
+
+#posts ul {
+    display: inline-block;
+    text-align: left;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 22px;
+}
